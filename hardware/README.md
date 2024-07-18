@@ -1,3 +1,7 @@
+# SANNI Adapters aren't compatible with MiniReader Adapters
+
+
+
 ## All the files in this directory are licensed under the Attribution 4.0 International (CC BY 4.0)     
 
 ### This means that you are free to:    
